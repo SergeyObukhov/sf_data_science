@@ -9,7 +9,7 @@
 [6. Выводы](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#выводы)  
   
 ### Описание проекта  
-Угадать загаданное компьютером число за минимальное колличество попыток.  
+Угадать загаданное компьютером число за минимальное количество попыток.  
   
 :arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#оглавление)  
   
