@@ -11,7 +11,7 @@
 ### Описание проекта  
 Угадать загаданное компьютером число за минимальное колличество попыток.  
   
-   :arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#оглавление)  
+    :arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#оглавление)  
   
   
 ### Какой кейс решаем?  
@@ -31,7 +31,7 @@
 ### Краткая информация о данных  
 ....  
   
-   :arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#оглавление)  
+    :arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#оглавление)  
   
   
 ### Этапы работы над проектов  
@@ -43,12 +43,12 @@
 ### Результаты  
 .... 
   
-   :arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#оглавление)  
+    :arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#оглавление)  
   
   
 ### Выводы  
 .... 
   
-   :arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#оглавление)  
+    :arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#оглавление)  
   
   
