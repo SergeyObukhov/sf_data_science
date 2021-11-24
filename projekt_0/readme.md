@@ -30,6 +30,7 @@
 - Учимся работать с IDE.
 - Учимся работать с GitHub.
   
+:arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#оглавление)  
 
 ### Краткая информация о данных  
 ....  
