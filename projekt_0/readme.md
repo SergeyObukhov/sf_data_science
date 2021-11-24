@@ -38,9 +38,9 @@
   
   
 ### Этапы работы над проектом  
-1. Написали программу, в которой пользователю при помощи диалога предлагается отгадать число, загаданное компьютером. [game.py](https://github.com/SergeyObukhov/sf_data_science/blob/main/projekt_0/game.py)  
-2. Добавили две функции. Одна случайным образом угадывает число. А вторая вычисляет среднее колличество попыток, за которое первая функция угадывает загаданное число. [game_v2.py](https://github.com/SergeyObukhov/sf_data_science/blob/main/projekt_0/game_v2.py)  
-3. Написал алгоритм, который учитывает, больше ли случайное число или меньше нужного нам числа. Функция сокращает диапазон значений, уменьшая его вдвое на каждой итерации цикла. [game_v3.py](https://github.com/SergeyObukhov/sf_data_science/blob/main/projekt_0/game_v3.py)
+1. [game.py](https://github.com/SergeyObukhov/sf_data_science/blob/main/projekt_0/game.py) - Написали программу, в которой пользователю при помощи диалога предлагается отгадать число, загаданное компьютером.
+2. [game_v2.py](https://github.com/SergeyObukhov/sf_data_science/blob/main/projekt_0/game_v2.py) - Добавили две функции. Одна случайным образом угадывает число. А вторая вычисляет среднее колличество попыток, за которое первая функция угадывает загаданное число.  
+3. [game_v3.py](https://github.com/SergeyObukhov/sf_data_science/blob/main/projekt_0/game_v3.py) - Написал алгоритм, который учитывает, больше ли случайное число или меньше нужного нам числа. Функция сокращает диапазон значений, уменьшая его вдвое на каждой итерации цикла. 
   
 :arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#оглавление)  
   
