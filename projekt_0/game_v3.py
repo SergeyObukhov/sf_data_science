@@ -18,12 +18,13 @@ def optimal_predict(number:int=1) -> int:
     count = 0
     left_border = 1
     right_border = 100
-    
     while True:
-        count += 1
-        predict_number = (left_border+right_border) // 2
+        count += 1        
+        # guess the average value from the range of possible
+        predict_number = (left_border+right_border) // 2  
         if number == predict_number:
-            break # exit the loop if we guessed right
+            break # exit the loop if we guessed right   
+        # decrease the range of values by half
         elif number > predict_number:
             left_border = predict_number + 1
         elif number < predict_number:
