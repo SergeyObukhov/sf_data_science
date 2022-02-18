@@ -59,6 +59,4 @@
 Я справился с поставленной задачей: написать функцию, которая будет угадывать число меньше чем за 20 попыток.  
 Я благодарен автору модуля и всему проекту SF за переданные мне навыки.
   
-:arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#оглавление)  
-  
-  
+:arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_0#оглавление)
