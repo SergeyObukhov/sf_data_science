@@ -31,7 +31,9 @@
 :arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_1#оглавление)  
 
 ### Краткая информация о данных  
-В нашем распоряжении база резюме, выгруженная с сайта поиска вакансий hh.ru.
+В нашем распоряжении база резюме, выгруженная с сайта поиска вакансий **HH.RU**. Ссылка: [***dst-3.0_16_1_hh_database.csv***](https://disk.yandex.ru/d/GByz1zdEB5nRpw).
+
+А также данные о курсах валют, выгруженные с сайта финансовой информации **MDF.RU**. Ссылка: [***ExchangeRates.csv***](https://disk.yandex.ru/d/UU-Ejw8S7fZCog).
   
 :arrow_up: [к оглавлению](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_1#оглавление)  
   
