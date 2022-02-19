@@ -1,4 +1,4 @@
-# Проект 0. Анализ вакансий на hh.ru  
+# Проект 1. Анализ вакансий на hh.ru  
   
 ## Оглавление  
 [1. Описание проекта](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_1#описание-проекта)  
