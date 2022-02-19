@@ -12,9 +12,9 @@
 чтобы потом установить библиотеки из файла requirements.txt:
     - install -r requirements.txt
 2) сохранить версию питона и библиотеки:
-    - conda env export > environment.yaml
+    - conda env export > environment.yml
 чтобы потом установить (полностью создается окружение - копия среды):
-    - conda env create -f environment.yaml
+    - conda env create -f environment.yml
 
 Более продвинутый способ управления пакетами:
     - Poetry
