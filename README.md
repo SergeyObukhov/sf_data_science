@@ -10,4 +10,4 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 * [Проект 7. Сегментация клиентов интернет магазина](https://github.com/SergeyObukhov/sf_data_science/tree/main/projekt_7)
 ## Ссылки на резюме
 
-* [Резюме](https://docs.google.com/document/d/1-by6uJFwSmYQObBOWB0RPkQdiiX8BPjV/edit?usp=sharing&ouid=101160774650148706207&rtpof=true&sd=true)
+* [Резюме](_______)
